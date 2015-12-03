@@ -1,0 +1,739 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Alcuin College, University of York | The Open Acoustic Impulse Response Library</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script src="https://maps.googleapis.com/maps/api/js?v=3&amp;language=en&amp;sensor=false&amp;key=AIzaSyAWXOsQx1hudwizgo0zw-2uBvD21mdZ-jU" type="text/javascript"></script>
+<link rel="shortcut icon" href="/sites/default/files/icons/favicon.ico" type="image/x-icon" />
+<meta name="keywords" content="acoustic,impulse response,open,air,database,free,sound,download,reverb,reverberation,Real World" />
+<link rel="canonical" href="http://www.openairlib.net/auralizationdb/content/alcuin-college-university-york" />
+<meta name="revisit-after" content="1 day" />
+<meta name="geo.position" content="53.950883;-1.049838" />
+<meta name="icbm" content="53.950883,-1.049838" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_f38d2db0dade3bdf82895b0ec02d7a25.css" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/grid16-960.css?k"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion_AIRLib/css/grid16-960.css?k"/>
+  <!--[if IE 8]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie8-fixes.css?k" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie7-fixes.css?k" />
+  <![endif]-->
+  <!--[if lte IE 6]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie6-fixes.css?k"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion_AIRLib/css/ie6-fixes.css?k"/>
+  <![endif]-->
+    <script type="text/javascript" src="/sites/default/files/js/js_0d158c4b51781fbc4ff1530b4901356a.js"></script>
+<script type="text/javascript" src="/sites/default/files/js/gmap_markers.js?k"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "loginlogout": { "destination": "destination=node%2F189", "urls": { "/user/login": "/user/login?destination=node%2F189", "/logout": "/logout?destination=node%2F189", "/user": "/user?destination=node%2F189" } }, "googleanalytics": { "trackOutbound": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 1, "force_show_nav": 0, "show_caption": 1, "loop_items": 0, "node_link_text": "View Content", "node_link_target": 0, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 }, "cron": { "basePath": "/poormanscron", "runNext": 1449171582 }, "tabs": { "slide": false, "fade": false, "speed": "fast", "auto_height": false, "next_text": "", "previous_text": "", "navigation_titles": "1" }, "gmap_markermanager": [  ], "gmap": { "auto2map": { "width": "960px", "height": "300px", "zoom": 2, "maxzoom": "14", "controltype": "Micro", "align": "None", "maptype": "Satellite", "mtc": "standard", "baselayers": { "Satellite": 1, "Physical": 1 }, "styles": { "line_default": [ "0000ff", "5", "45", "", "" ], "poly_default": [ "000000", "3", "25", "ff0000", "45" ], "highlight_color": "" }, "line_colors": [ "#00cc00", "#ff0000", "#0000ff" ], "behavior": { "locpick": false, "nodrag": 0, "nokeyboard": 1, "nomousezoom": 0, "nocontzoom": 0, "autozoom": true, "dynmarkers": 0, "overview": 0, "collapsehack": 0, "scale": 0, "extramarkerevents": false, "clickableshapes": false, "googlebar": 0, "highlight": 0 }, "markermode": "1", "id": "auto2map", "latitude": "53.950883", "longitude": "-1.049838", "markers": [ { "latitude": "53.950883", "longitude": "-1.049838", "markername": "green", "offset": 0, "text": "\x3cdiv class=\"gmap-popup\"\x3e\x3ch4\x3eAlcuin College, University Of York\x3c/h4\x3e\x3cdiv class=\"location vcard\"\x3e\n  \x3cdiv class=\"adr\"\x3e\n              \x3cdiv class=\"street-address\"\x3e\n                          \x3cspan class=\"additional\"\x3e\n             Heslington          \x3c/span\x3e\n              \x3c/div\x3e\n              \x3cspan class=\"locality\"\x3eYork\x3c/span\x3e,               \x3cspan class=\"region\"\x3eNYK\x3c/span\x3e\n              \x3cspan class=\"postal-code\"\x3eYO10 5DD\x3c/span\x3e\n              \x3cdiv class=\"country-name\"\x3eUnited Kingdom\x3c/div\x3e\n                                      \x3c/div\x3e\n  \x3c/div\x3e\n\x3c/div\x3e" } ] } } });
+//--><!]]>
+</script>
+</head>
+
+<body id="pid-auralizationdb-content-alcuin-college-university-york" class="not-front not-logged-in page-node node-type-auralization no-sidebars full-node layout-main sidebars-split font-family-sans-serif-sm font-size-14 grid-type-960 grid-width-16">
+  <div id="page" class="page">
+    <div id="page-inner" class="page-inner">
+      <div id="skip">
+        <a href="#main-content-area">Skip to Main Content Area</a>
+      </div>
+
+      <!-- header-top row: width = grid_width -->
+      
+      <!-- header-group row: width = grid_width -->
+      <div id="header-group-wrapper" class="header-group-wrapper full-width">
+        <div id="header-group" class="header-group row grid16-16">
+          <div id="header-group-inner" class="header-group-inner inner clearfix">
+                        
+            
+            
+<div id="block-menu-primary-links" class="block block-menu odd first grid16-16 fusion-right fusion-inline-menu fusion-align-menu-right">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <ul class="menu"><li class="leaf first"><a href="/" title="The Home Page">Home</a></li>
+<li class="leaf active-trail"><a href="/auralizationdb" title="Database of Impulse Responses and Related Information">IR Data</a></li>
+<li class="leaf"><a href="/anechoicdb" title="Database of Anechoic Sounds">Anechoic Data</a></li>
+<li class="leaf"><a href="/resources" title="Useful Downloads and Links">Resources</a></li>
+<li class="leaf"><a href="/about" title="Information About this Website">About</a></li>
+<li class="leaf last"><a href="/user/login" title="Log in or Register to the Site">Log in</a></li>
+</ul>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+
+<div id="block-menu-menu-auralization-menu" class="block block-menu even  last grid16-14 fusion-inline-menu fusion-align-menu-right-small">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <ul class="menu"><li class="leaf first active-trail"><a href="/auralizationdb" title="Browse and Search for Content">Browse Auralization Data</a></li>
+<li class="leaf last"><a href="/auralizationdb/map" title="Browse the Auralization Data on the World Map">Auralization Map</a></li>
+</ul>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+                      </div><!-- /header-group-inner -->
+        </div><!-- /header-group -->
+      </div><!-- /header-group-wrapper -->
+
+      <!-- preface-top row: width = grid_width -->
+      
+      <!-- main row: width = grid_width -->
+      <div id="main-wrapper" class="main-wrapper full-width">
+        <div id="main" class="main row grid16-16">
+          <div id="main-inner" class="main-inner inner clearfix">
+            
+            <!-- main group: width = grid_width - sidebar_first_width -->
+            <div id="main-group" class="main-group row nested grid16-16">
+              <div id="main-group-inner" class="main-group-inner inner">
+                
+                <div id="main-content" class="main-content row nested">
+                  <div id="main-content-inner" class="main-content-inner inner">
+                    <!-- content group: width = grid_width - (sidebar_first_width + sidebar_last_width) -->
+                    <div id="content-group" class="content-group row nested grid16-16">
+                      <div id="content-group-inner" class="content-group-inner inner">
+                        
+                        
+                        <div id="content-region" class="content-region row nested">
+                          <div id="content-region-inner" class="content-region-inner inner">
+                            <a name="main-content-area" id="main-content-area"></a>
+                                                        <div id="content-inner" class="content-inner block">
+                              <div id="content-inner-inner" class="content-inner-inner inner">
+                                                                <h1 class="title">Alcuin College, University of York</h1>
+                                                                                                <div id="content-content" class="content-content">
+                                  
+<div id="node-189" class="node odd full-node node-type-auralization">
+  <div class="inner">
+    
+    
+    
+    
+    <div class="content clearfix">
+      <div id="tabs-tabset" class="drupal-tabs js-hide tabs-navigation"><div class="description"></div><ul class="clear-block"><li class="information"><a href="#information"><span class="tab">Information</span></a></li><li class="analysis"><a href="#analysis"><span class="tab">Analysis</span></a></li><li class="impulse-responses"><a href="#impulse-responses"><span class="tab">Impulse Responses</span></a></li><li class="images"><a href="#images"><span class="tab">Images</span></a></li><li class="location"><a href="#location"><span class="tab">Location</span></a></li><li class="attribution"><a href="#attribution"><span class="tab">Attribution</span></a></li></ul><div id="information" class="tabs-tabset"><h2 class="drupal-tabs-title js-hide">Information</h2><div class="field field-type-text field-field-description">
+      <div class="field-label">Description:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Impulse responses recorded in a semi enclosed courtyard in Alcuin College on the University of York campus. The courtyard is formed of six buildings, with a 2.4m high wall connecting the buildings. Receivers S1R1, S1R2, and S1R3 sit at different distances forming an axis from source position S1. This axis was chosen as it is roughly parallel to the faces of the buildings to the north and south of the courtyard.
+
+Receivers S2R1, S2R2, and S2R3 form an axis from source S2 in order to approximate the diagonal span
+of the courtyard (limited by line of sight due to minor obstacles in the courtyard). These sets of receiver positions were chosen to compare the acoustic properties of a direct sound path orthogonal to the surrounding geometry with those of sound path at an oblique angle. S3R1 is positioned out of the line of sight of source S3, with acoustic coupling provided by the glass frontage of the north eastern building. Position S4 was inside a ground floor room adjacent to position S3. 
+
+For positions S1R1 - S3R1 three impulse responses have been made; one with a single directional sound source (indicated by &#039;front&#039; in the filename), one using a starter pistol (indicated by &#039;spist&#039;, and the other with an array of four directional sound sources pointing in different directions in an attempt to better approximate an omni-directional source. For positions S4R1-S4R2 only a single speakerorientation has been used due to the loudspeaker being inside a room.
+
+In each case the soundfield microphone is pointed directly at the loudspeaker.         </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-team">
+      <div class="field-label">Measurement Team:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Francis Stevens        </div>
+              <div class="field-item even">
+                    Simon Shelley        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-capture-date">
+      <div class="field-label">Capture Date:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">Fri, 16/08/2013</span>        </div>
+        </div>
+</div>
+<div class="field field-type-number-float field-field-size">
+      <div class="field-label">Size:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    21000 m³        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-source-sound">
+      <div class="field-label">Source Sound:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Swept Sine; 22 Hz - 22 kHz ; 60 seconds        </div>
+        </div>
+</div>
+<div class="field field-type-content-taxonomy field-field-source-cat">
+      <div class="field-label">Source Sound Category:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Swept sine (logarithmic)        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-input">
+      <div class="field-label">Input:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Genelec S30D louspeaker, Starter Pistol         </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-microphones">
+      <div class="field-label">Microphone(s):&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Sound Field ST450 B-format microphone        </div>
+        </div>
+</div>
+<div class="field field-type-content-taxonomy field-field-space-cat">
+      <div class="field-label">Space Category:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Open Air        </div>
+        </div>
+</div>
+<div class="field field-type-content-taxonomy field-field-generation">
+      <div class="field-label">Generation Type:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Real World        </div>
+        </div>
+</div>
+</div><div id="analysis" class="tabs-tabset"><h2 class="drupal-tabs-title js-hide">Analysis</h2><div class="field field-type-text field-field-analysis-description">
+      <div class="field-label">Analysis Description:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    This is the W channel of the B-format impulse response measured at position S1R1 using the combination of four loudspeaker orientations.        </div>
+        </div>
+</div>
+<div class="field field-type-filefield field-field-convolve">
+      <div class="field-label">Demonstration Impulse Response:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <br /><h4 align=right>Waveform</h4><a href='/upload-sound?node=189'><img src="/sites/default/files/auralization/demonstration/alcuin_s1r1_w_channel.png" alt="impulse" title="impulse" width="970" height="420" /></a><div>
+<object id = "player" type="application/x-shockwave-flash" data="/sites/all/modules/convolvefield/players/player.swf" width="960" height="24" >
+  <param name="movie" value="/sites/all/modules/convolvefield/players/player.swf" />
+  <param name="wmode" value="transparent" />
+  <param name="menu" value="false" />
+  <param name="quality" value="high" />
+  <param name="FlashVars" value="soundFile=http%3A%2F%2Fwww.openairlib.net%2Fsites%2Fdefault%2Ffiles%2Fauralization%2Fdemonstration%2Falcuin_s1r1_w_channel.mp3&initialvolume=100&loader=6699FF&transparentpagebg=yes&volslider=6699FF&lefticon=ffffff&righticon=6699FF&bg=b3b3b3&leftbg=b3b3b3&rightbg=b3b3b3&animation=no&titles=Impulse+Response" />
+  <embed name = "player1" src="/sites/all/modules/convolvefield/players/player.swf" flashvars="soundFile=http%3A%2F%2Fwww.openairlib.net%2Fsites%2Fdefault%2Ffiles%2Fauralization%2Fdemonstration%2Falcuin_s1r1_w_channel.mp3&initialvolume=100&loader=6699FF&transparentpagebg=yes&volslider=6699FF&lefticon=ffffff&righticon=6699FF&bg=b3b3b3&leftbg=b3b3b3&rightbg=b3b3b3&animation=no&titles=Impulse+Response" width="960" height="24">
+  </embed>
+  <a style="color:#6699FF" href="http://www.openairlib.net/sites/default/files/auralization/demonstration/alcuin_s1r1_w_channel.mp3" >   Click here to listen to the original anechoic sound</a>
+</object>
+</div>Click <a href='/upload-sound?node=189'>here</a> or on the waveform to upload a sound from your computer and hear it in this space<br /> <h4 align=right>Acoustic Parameters</h4><br /><b>Octave Band</b><table class="sticky-enabled">
+ <thead><tr><th>31.25 Hz</th><th>62.5 Hz</th><th>125 Hz</th><th>250 Hz</th><th>500 Hz</th><th>1 kHz</th><th>2 kHz</th><th>4 kHz</th><th>8 kHz</th><th>16 kHz</th> </tr></thead>
+<tbody>
+ <tr class="odd"><td colspan="10"></br><b>Reverberation Time</b> RT60 T30 (seconds)</td> </tr>
+ <tr class="even"><td>1.99</td><td>2.22</td><td>1.99</td><td>1.49</td><td>1.61</td><td>1.83</td><td>1.77</td><td>1.52</td><td>1.20</td><td>0.90</td> </tr>
+ <tr class="odd"><td colspan="10"></br><b>Early Decay Time</b> EDT (seconds)</td> </tr>
+ <tr class="even"><td>2.15</td><td>2.15</td><td>1.51</td><td>1.89</td><td>1.89</td><td>1.89</td><td>1.89</td><td>1.51</td><td>1.51</td><td>0.23</td> </tr>
+ <tr class="odd"><td colspan="10"></br><b>Definition</b> D50</td> </tr>
+ <tr class="even"><td>0.14</td><td>0.41</td><td>0.46</td><td>0.32</td><td>0.47</td><td>0.61</td><td>0.34</td><td>0.61</td><td>0.65</td><td>0.92</td> </tr>
+ <tr class="odd"><td colspan="10"></br><b>Clarity</b> C50 (dB)</td> </tr>
+ <tr class="even"><td>-7.93</td><td>-1.58</td><td>-0.74</td><td>-3.35</td><td>-0.45</td><td>1.96</td><td>-2.84</td><td>1.98</td><td>2.61</td><td>10.53</td> </tr>
+ <tr class="odd"><td colspan="10"></br><b>Clarity</b> C80 (dB)</td> </tr>
+ <tr class="even"><td>-4.86</td><td>-0.13</td><td>1.04</td><td>-1.86</td><td>0.44</td><td>2.48</td><td>-1.58</td><td>3.67</td><td>3.74</td><td>11.50</td> </tr>
+</tbody>
+</table>
+<br /><br /><h4 align=right>Example Audio</h4><div>
+<object id = "player" type="application/x-shockwave-flash" data="/sites/all/modules/convolvefield/players/player.swf" width="960" height="24" >
+  <param name="movie" value="/sites/all/modules/convolvefield/players/player.swf" />
+  <param name="wmode" value="transparent" />
+  <param name="menu" value="false" />
+  <param name="quality" value="high" />
+  <param name="FlashVars" value="soundFile=http%3A%2F%2Fwww.openairlib.net%2Fsites%2Fdefault%2Ffiles%2Faudio%2Fsinging.mp3&initialvolume=100&loader=6699FF&transparentpagebg=yes&volslider=6699FF&lefticon=ffffff&righticon=6699FF&bg=b3b3b3&leftbg=b3b3b3&rightbg=b3b3b3&animation=no&titles=Anechoic+soprano." />
+  <embed name = "player1" src="/sites/all/modules/convolvefield/players/player.swf" flashvars="soundFile=http%3A%2F%2Fwww.openairlib.net%2Fsites%2Fdefault%2Ffiles%2Faudio%2Fsinging.mp3&initialvolume=100&loader=6699FF&transparentpagebg=yes&volslider=6699FF&lefticon=ffffff&righticon=6699FF&bg=b3b3b3&leftbg=b3b3b3&rightbg=b3b3b3&animation=no&titles=Anechoic+soprano." width="960" height="24">
+  </embed>
+  <a style="color:#6699FF" href="http://www.openairlib.net/sites/default/files/audio/singing.mp3" >   Click here to listen to the original anechoic sound</a>
+</object>
+</div><div>
+<object id = "player" type="application/x-shockwave-flash" data="/sites/all/modules/convolvefield/players/player.swf" width="960" height="24" >
+  <param name="movie" value="/sites/all/modules/convolvefield/players/player.swf" />
+  <param name="wmode" value="transparent" />
+  <param name="menu" value="false" />
+  <param name="quality" value="high" />
+  <param name="FlashVars" value="soundFile=http%3A%2F%2Fwww.openairlib.net%2Fsites%2Fdefault%2Ffiles%2Fauralization%2Fdemonstration%2Falcuin_s1r1_w_channel_sing.mp3&initialvolume=100&loader=6699FF&transparentpagebg=yes&volslider=6699FF&lefticon=ffffff&righticon=6699FF&bg=b3b3b3&leftbg=b3b3b3&rightbg=b3b3b3&animation=no&titles=Hear+the+soprano+in+this+space." />
+  <embed name = "player1" src="/sites/all/modules/convolvefield/players/player.swf" flashvars="soundFile=http%3A%2F%2Fwww.openairlib.net%2Fsites%2Fdefault%2Ffiles%2Fauralization%2Fdemonstration%2Falcuin_s1r1_w_channel_sing.mp3&initialvolume=100&loader=6699FF&transparentpagebg=yes&volslider=6699FF&lefticon=ffffff&righticon=6699FF&bg=b3b3b3&leftbg=b3b3b3&rightbg=b3b3b3&animation=no&titles=Hear+the+soprano+in+this+space." width="960" height="24">
+  </embed>
+  <a style="color:#6699FF" href="http://www.openairlib.net/sites/default/files/auralization/demonstration/alcuin_s1r1_w_channel_sing.mp3" >   Click here to listen to the original anechoic sound</a>
+</object>
+</div> <br /><div>
+<object id = "player" type="application/x-shockwave-flash" data="/sites/all/modules/convolvefield/players/player.swf" width="960" height="24" >
+  <param name="movie" value="/sites/all/modules/convolvefield/players/player.swf" />
+  <param name="wmode" value="transparent" />
+  <param name="menu" value="false" />
+  <param name="quality" value="high" />
+  <param name="FlashVars" value="soundFile=http%3A%2F%2Fwww.openairlib.net%2Fsites%2Fdefault%2Ffiles%2Faudio%2Fdrums.mp3&initialvolume=100&loader=6699FF&transparentpagebg=yes&volslider=6699FF&lefticon=ffffff&righticon=6699FF&bg=b3b3b3&leftbg=b3b3b3&rightbg=b3b3b3&animation=no&titles=Synthesized+drums." />
+  <embed name = "player1" src="/sites/all/modules/convolvefield/players/player.swf" flashvars="soundFile=http%3A%2F%2Fwww.openairlib.net%2Fsites%2Fdefault%2Ffiles%2Faudio%2Fdrums.mp3&initialvolume=100&loader=6699FF&transparentpagebg=yes&volslider=6699FF&lefticon=ffffff&righticon=6699FF&bg=b3b3b3&leftbg=b3b3b3&rightbg=b3b3b3&animation=no&titles=Synthesized+drums." width="960" height="24">
+  </embed>
+  <a style="color:#6699FF" href="http://www.openairlib.net/sites/default/files/audio/drums.mp3" >   Click here to listen to the original anechoic sound</a>
+</object>
+</div><div>
+<object id = "player" type="application/x-shockwave-flash" data="/sites/all/modules/convolvefield/players/player.swf" width="960" height="24" >
+  <param name="movie" value="/sites/all/modules/convolvefield/players/player.swf" />
+  <param name="wmode" value="transparent" />
+  <param name="menu" value="false" />
+  <param name="quality" value="high" />
+  <param name="FlashVars" value="soundFile=http%3A%2F%2Fwww.openairlib.net%2Fsites%2Fdefault%2Ffiles%2Fauralization%2Fdemonstration%2Falcuin_s1r1_w_channel_drum.mp3&initialvolume=100&loader=6699FF&transparentpagebg=yes&volslider=6699FF&lefticon=ffffff&righticon=6699FF&bg=b3b3b3&leftbg=b3b3b3&rightbg=b3b3b3&animation=no&titles=Hear+the+synthesized+drums+in+this+space." />
+  <embed name = "player1" src="/sites/all/modules/convolvefield/players/player.swf" flashvars="soundFile=http%3A%2F%2Fwww.openairlib.net%2Fsites%2Fdefault%2Ffiles%2Fauralization%2Fdemonstration%2Falcuin_s1r1_w_channel_drum.mp3&initialvolume=100&loader=6699FF&transparentpagebg=yes&volslider=6699FF&lefticon=ffffff&righticon=6699FF&bg=b3b3b3&leftbg=b3b3b3&rightbg=b3b3b3&animation=no&titles=Hear+the+synthesized+drums+in+this+space." width="960" height="24">
+  </embed>
+  <a style="color:#6699FF" href="http://www.openairlib.net/sites/default/files/auralization/demonstration/alcuin_s1r1_w_channel_drum.mp3" >   Click here to listen to the original anechoic sound</a>
+</object>
+</div><br /><h4 align=right>Widget for external sites</h4><div class="view view-external view-id-external view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-field-convolve-fid">
+                <span class="field-content">
+</span>
+  </div>
+  </div>
+    </div>
+  
+  
+      <div class="attachment attachment-after">
+      <div class="form-item" id="web_widgets_0-wrapper">
+ <label for="web_widgets_0">Embed code: </label>
+ <input type="text" name="web_widgets" id="web_widgets_0" size="60" value="&lt;script type=&quot;text/javascript&quot;&gt;
+widgetContext = { &quot;url&quot;: &quot;http://www.openairlib.net/path/189/ir_widget&quot;, &quot;width&quot;: &quot;450&quot;, &quot;height&quot;: &quot;350&quot;, &quot;widgetid&quot;: &quot;web_widget_iframe_0ec9fadf0ee4ffcada307c0481d7cbcf&quot; };
+&lt;/script&gt;
+&lt;script id=&quot;web_widget_iframe_0ec9fadf0ee4ffcada307c0481d7cbcf&quot; src=&quot;http://www.openairlib.net/sites/all/modules/web_widgets/iframe/web_widgets_iframe.js&quot;&gt;&lt;/script&gt;
+" class="form-text" />
+ <div class="description">Copy and paste this code to your website.</div>
+</div>
+    </div>
+  
+  
+  
+  
+</div>         </div>
+        </div>
+</div>
+</div><div id="impulse-responses" class="tabs-tabset"><h2 class="drupal-tabs-title js-hide">Impulse Responses</h2><div class="field field-type-text field-field-format">
+      <div class="field-label">Format(s):&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    B-Format (4 Channel Files)        </div>
+        </div>
+</div>
+<div class="field field-type-filefield field-field-bformat-multi">
+      <div class="field-label">B-Format: Multichannel:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/alcuin_s1r1_bformat.wav" type="audio/x-wav; length=5760056">alcuin_s1r1_bformat.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>5 s<br>
+        <b>File Size: </b>5.49 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item even">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/alcuin_s1r1front_bformat.wav" type="audio/x-wav; length=5760056">alcuin_s1r1front_bformat.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>5 s<br>
+        <b>File Size: </b>5.49 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item odd">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/s1r1_spist_bform.wav" type="audio/x-wav; length=2651892">s1r1_spist_bform.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>16<br>
+        <b>Duration: </b>3.45 s<br>
+        <b>File Size: </b>2.53 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item even">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/alcuin_s1r2_bformat.wav" type="audio/x-wav; length=5760056">alcuin_s1r2_bformat.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>5 s<br>
+        <b>File Size: </b>5.49 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item odd">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/alcuin_s1r2front_bformat.wav" type="audio/x-wav; length=5760056">alcuin_s1r2front_bformat.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>5 s<br>
+        <b>File Size: </b>5.49 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item even">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/s1r2_spist_bform.wav" type="audio/x-wav; length=2367108">s1r2_spist_bform.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>16<br>
+        <b>Duration: </b>3.08 s<br>
+        <b>File Size: </b>2.26 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item odd">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/alcuin_s1r3_bformat.wav" type="audio/x-wav; length=5760056">alcuin_s1r3_bformat.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>5 s<br>
+        <b>File Size: </b>5.49 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item even">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/alcuin_s1r3front_bformat.wav" type="audio/x-wav; length=5760056">alcuin_s1r3front_bformat.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>5 s<br>
+        <b>File Size: </b>5.49 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item odd">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/s1r3_spist_bform.wav" type="audio/x-wav; length=2250444">s1r3_spist_bform.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>16<br>
+        <b>Duration: </b>2.93 s<br>
+        <b>File Size: </b>2.15 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item even">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/alcuin_s2r1_bformat.wav" type="audio/x-wav; length=5760056">alcuin_s2r1_bformat.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>5 s<br>
+        <b>File Size: </b>5.49 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item odd">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/alcuin_s2r1front_bformat.wav" type="audio/x-wav; length=5760056">alcuin_s2r1front_bformat.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>5 s<br>
+        <b>File Size: </b>5.49 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item even">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/s2r1_spist_bform.wav" type="audio/x-wav; length=2271948">s2r1_spist_bform.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>16<br>
+        <b>Duration: </b>2.96 s<br>
+        <b>File Size: </b>2.17 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item odd">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/alcuin_s2r2_bformat.wav" type="audio/x-wav; length=5760056">alcuin_s2r2_bformat.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>5 s<br>
+        <b>File Size: </b>5.49 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item even">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/alcuin_s2r2front_bformat.wav" type="audio/x-wav; length=5760056">alcuin_s2r2front_bformat.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>5 s<br>
+        <b>File Size: </b>5.49 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item odd">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/s2r2_spist_bform.wav" type="audio/x-wav; length=2321396">s2r2_spist_bform.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>44.1 kHz<br>
+        <b>Number of Channels: </b>2<br>
+        <b>Bits per Sample:  </b>16<br>
+        <b>Duration: </b>3.02 s<br>
+        <b>File Size: </b>2.21 MB<br>
+        <b>File Format: </b>mp1
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item even">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/alcuin_s2r3_bformat.wav" type="audio/x-wav; length=5760056">alcuin_s2r3_bformat.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>5 s<br>
+        <b>File Size: </b>5.49 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item odd">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/alcuin_s2r3front_bformat.wav" type="audio/x-wav; length=5760056">alcuin_s2r3front_bformat.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>5 s<br>
+        <b>File Size: </b>5.49 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item even">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/s2r3_spist_bform.wav" type="audio/x-wav; length=2765204">s2r3_spist_bform.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>16<br>
+        <b>Duration: </b>3.6 s<br>
+        <b>File Size: </b>2.64 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item odd">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/alcuin_s3r1_bformat.wav" type="audio/x-wav; length=5760056">alcuin_s3r1_bformat.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>5 s<br>
+        <b>File Size: </b>5.49 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item even">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/alcuin_s3r1front_bformat.wav" type="audio/x-wav; length=5760056">alcuin_s3r1front_bformat.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>5 s<br>
+        <b>File Size: </b>5.49 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item odd">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/s3r1_spist_bform.wav" type="audio/x-wav; length=2003924">s3r1_spist_bform.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>16<br>
+        <b>Duration: </b>2.61 s<br>
+        <b>File Size: </b>1.91 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item even">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/alcuin_s4r1_bformat.wav" type="audio/x-wav; length=5760056">alcuin_s4r1_bformat.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>5 s<br>
+        <b>File Size: </b>5.49 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item odd">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/s4r1_spist_bform.wav" type="audio/x-wav; length=1888780">s4r1_spist_bform.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>16<br>
+        <b>Duration: </b>2.46 s<br>
+        <b>File Size: </b>1.8 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item even">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/alcuin_s4r2_bformat.wav" type="audio/x-wav; length=5760056">alcuin_s4r2_bformat.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>5 s<br>
+        <b>File Size: </b>5.49 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+              <div class="field-item odd">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/b-format/s4r2_spist_bform.wav" type="audio/x-wav; length=1719244">s4r2_spist_bform.wav</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>96 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>16<br>
+        <b>Duration: </b>2.24 s<br>
+        <b>File Size: </b>1.64 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"></div><br clear=both>        </div>
+        </div>
+</div>
+</div><div id="images" class="tabs-tabset"><h2 class="drupal-tabs-title js-hide">Images</h2><div class="field field-type-filefield field-field-photo">
+      <div class="field-label">Photographs and Diagrams:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/images/site_layout_with_location.jpg" rel="lightbox[field_photo][Birdeseye view of the site, indicating source and receiver positons and direct sound paths between each pair]" class="imagefield imagefield-lightbox2 imagefield-lightbox2-main imagefield-field_photo imagecache imagecache-field_photo imagecache-main imagecache-field_photo-main"><img src="http://www.openairlib.net/sites/default/files/imagecache/main/auralization/data/fstevens/alcuin-college-university-york/images/site_layout_with_location.jpg" alt="Birdeseye view of the site, indicating source and receiver positons" title="" width="298" height="225"/></a>        </div>
+              <div class="field-item even">
+                    <a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/images/source1receiverposition1viewfront.jpg" rel="lightbox[field_photo][View of source position S1 from receiver S1R1]" class="imagefield imagefield-lightbox2 imagefield-lightbox2-main imagefield-field_photo imagecache imagecache-field_photo imagecache-main imagecache-field_photo-main"><img src="http://www.openairlib.net/sites/default/files/imagecache/main/auralization/data/fstevens/alcuin-college-university-york/images/source1receiverposition1viewfront.jpg" alt="View of source position S1 from receiver S1R1" title="" width="298" height="225"/></a>        </div>
+              <div class="field-item odd">
+                    <a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/images/source1receiverposition2view1.jpg" rel="lightbox[field_photo][Receiver Position S1R2]" class="imagefield imagefield-lightbox2 imagefield-lightbox2-main imagefield-field_photo imagecache imagecache-field_photo imagecache-main imagecache-field_photo-main"><img src="http://www.openairlib.net/sites/default/files/imagecache/main/auralization/data/fstevens/alcuin-college-university-york/images/source1receiverposition2view1.jpg" alt="Receiver Position S1R2" title="" width="298" height="225"/></a>        </div>
+              <div class="field-item even">
+                    <a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/images/source2receiver1view1.jpg" rel="lightbox[field_photo][Receiver Position S2R1]" class="imagefield imagefield-lightbox2 imagefield-lightbox2-main imagefield-field_photo imagecache imagecache-field_photo imagecache-main imagecache-field_photo-main"><img src="http://www.openairlib.net/sites/default/files/imagecache/main/auralization/data/fstevens/alcuin-college-university-york/images/source2receiver1view1.jpg" alt="Receiver Position S2R1" title="" width="298" height="225"/></a>        </div>
+              <div class="field-item odd">
+                    <a href="http://www.openairlib.net/sites/default/files/auralization/data/fstevens/alcuin-college-university-york/images/source4view1.jpg" rel="lightbox[field_photo][Source Position S4]" class="imagefield imagefield-lightbox2 imagefield-lightbox2-main imagefield-field_photo imagecache imagecache-field_photo imagecache-main imagecache-field_photo-main"><img src="http://www.openairlib.net/sites/default/files/imagecache/main/auralization/data/fstevens/alcuin-college-university-york/images/source4view1.jpg" alt="Source Position S4" title="" width="298" height="225"/></a>        </div>
+        </div>
+</div>
+</div><div id="location" class="tabs-tabset"><h2 class="drupal-tabs-title js-hide">Location</h2><div class="field field-type-location field-field-location">
+      <div class="field-label">Address:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <div class="location vcard">
+  <div class="adr">
+          <span class="fn">Alcuin College, University Of York</span>
+              <div class="street-address">
+                          <span class="additional">
+             Heslington          </span>
+              </div>
+              <span class="locality">York</span>,               <span class="region">NYK</span>
+              <span class="postal-code">YO10 5DD</span>
+              <div class="country-name">United Kingdom</div>
+                                      </div>
+  </div>
+<div style="width: 960px; height: 300px;" id="gmap-auto2map-gmap0" class="gmap-control gmap-gmap gmap gmap-map gmap-auto2map-gmap">Javascript is required to view this map.</div>        </div>
+        </div>
+</div>
+</div><div id="attribution" class="tabs-tabset"><h2 class="drupal-tabs-title js-hide">Attribution</h2><div class="field field-type-text field-field-licensor">
+      <div class="field-label">Attribute this work to:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    www.openairlib.net        </div>
+        </div>
+</div>
+</div></div>    </div>
+
+        <div class="terms">
+      <ul class="links inline"><li class="taxonomy_term_19 first last"><a href="/category/generation-type/real-world" rel="tag" title="">Real World</a></li>
+</ul>    </div>
+    
+      </div><!-- /inner -->
+
+  </div><!-- /node-189 -->
+
+
+                                                                  </div><!-- /content-content -->
+                                                              </div><!-- /content-inner-inner -->
+                            </div><!-- /content-inner -->
+                          </div><!-- /content-region-inner -->
+                        </div><!-- /content-region -->
+
+                        <div id="content-bottom" class="content-bottom row nested ">
+<div id="content-bottom-inner" class="content-bottom-inner inner clearfix">
+
+<div id="block-creativecommons_lite-0" class="block block-creativecommons_lite odd first last  grid16-16">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <p class="creativecommons">
+<!--Creative Commons License-->
+<a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license" title="Attribution Share Alike"><img alt="Creative Commons license icon" src="/sites/all/modules/creativecommons_lite/images/buttons_large/by-sa.png" /></a>
+<br />License for this content: <a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license">Attribution Share Alike Creative Commons license</a><br />
+<!--/Creative Commons License-->
+</p>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+</div><!-- /content-bottom-inner -->
+</div><!-- /content-bottom -->
+                      </div><!-- /content-group-inner -->
+                    </div><!-- /content-group -->
+
+                                      </div><!-- /main-content-inner -->
+                </div><!-- /main-content -->
+
+                              </div><!-- /main-group-inner -->
+            </div><!-- /main-group -->
+          </div><!-- /main-inner -->
+        </div><!-- /main -->
+      </div><!-- /main-wrapper -->
+
+      <!-- postscript-bottom row: width = grid_width -->
+      
+      <!-- footer row: width = grid_width -->
+      <div id="footer-wrapper" class="footer-wrapper full-width">
+<div id="footer" class="footer row grid16-16">
+<div id="footer-inner" class="footer-inner inner clearfix">
+
+<div id="block-menu-menu-footer-menu" class="block block-menu odd first last fusion-center-content fusion-inline-menu grid16-16">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <ul class="menu"><li class="leaf first"><a href="/contact" title="">contact us</a></li>
+<li class="leaf"><a href="/acknowledgements" title="">acknowledgements</a></li>
+<li class="leaf"><a href="/privacy-policy" title="">privacy policy</a></li>
+<li class="leaf last"><a href="http://www.york.ac.uk/about/legal-statements/ " title="">disclaimer</a></li>
+</ul>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+</div><!-- /footer-inner -->
+</div><!-- /footer -->
+</div><!-- /footer-wrapper -->
+
+      <!-- footer-message row: width = grid_width -->
+      <div id="footer-message-wrapper" class="footer-message-wrapper full-width">
+        <div id="footer-message" class="footer-message row grid16-16">
+          <div id="footer-message-inner" class="footer-message-inner inner clearfix">
+                      </div><!-- /footer-message-inner -->
+        </div><!-- /footer-message -->
+      </div><!-- /footer-message-wrapper -->
+
+    </div><!-- /page-inner -->
+  </div><!-- /page -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-19363976-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+</body>
+</html>

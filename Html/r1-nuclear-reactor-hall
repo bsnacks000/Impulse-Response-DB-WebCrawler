@@ -1,0 +1,547 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>R1 Nuclear Reactor Hall | The Open Acoustic Impulse Response Library</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script src="https://maps.googleapis.com/maps/api/js?v=3&amp;language=en&amp;sensor=false&amp;key=AIzaSyAWXOsQx1hudwizgo0zw-2uBvD21mdZ-jU" type="text/javascript"></script>
+<link rel="shortcut icon" href="/sites/default/files/icons/favicon.ico" type="image/x-icon" />
+<meta name="keywords" content="acoustic,impulse response,open,air,database,free,sound,download,reverb,reverberation,Real World" />
+<meta name="dcterms.date" content="2011-06-09T00:00:00Z" />
+<link rel="canonical" href="http://www.openairlib.net/auralizationdb/content/r1-nuclear-reactor-hall" />
+<meta name="revisit-after" content="1 day" />
+<meta name="geo.position" content="59.345831;18.072100" />
+<meta name="icbm" content="59.345831,18.072100" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_f38d2db0dade3bdf82895b0ec02d7a25.css" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/grid16-960.css?k"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion_AIRLib/css/grid16-960.css?k"/>
+  <!--[if IE 8]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie8-fixes.css?k" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie7-fixes.css?k" />
+  <![endif]-->
+  <!--[if lte IE 6]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie6-fixes.css?k"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion_AIRLib/css/ie6-fixes.css?k"/>
+  <![endif]-->
+    <script type="text/javascript" src="/sites/default/files/js/js_0d158c4b51781fbc4ff1530b4901356a.js"></script>
+<script type="text/javascript" src="/sites/default/files/js/gmap_markers.js?k"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "loginlogout": { "destination": "destination=node%2F123", "urls": { "/user/login": "/user/login?destination=node%2F123", "/logout": "/logout?destination=node%2F123", "/user": "/user?destination=node%2F123" } }, "googleanalytics": { "trackOutbound": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 1, "force_show_nav": 0, "show_caption": 1, "loop_items": 0, "node_link_text": "View Content", "node_link_target": 0, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 }, "cron": { "basePath": "/poormanscron", "runNext": 1449171582 }, "tabs": { "slide": false, "fade": false, "speed": "fast", "auto_height": false, "next_text": "", "previous_text": "", "navigation_titles": "1" }, "gmap_markermanager": [  ], "gmap": { "auto2map": { "width": "960px", "height": "300px", "zoom": 2, "maxzoom": "14", "controltype": "Micro", "align": "None", "maptype": "Satellite", "mtc": "standard", "baselayers": { "Satellite": 1, "Physical": 1 }, "styles": { "line_default": [ "0000ff", "5", "45", "", "" ], "poly_default": [ "000000", "3", "25", "ff0000", "45" ], "highlight_color": "" }, "line_colors": [ "#00cc00", "#ff0000", "#0000ff" ], "behavior": { "locpick": false, "nodrag": 0, "nokeyboard": 1, "nomousezoom": 0, "nocontzoom": 0, "autozoom": true, "dynmarkers": 0, "overview": 0, "collapsehack": 0, "scale": 0, "extramarkerevents": false, "clickableshapes": false, "googlebar": 0, "highlight": 0 }, "markermode": "1", "id": "auto2map", "latitude": "59.345831", "longitude": "18.072100", "markers": [ { "latitude": "59.345831", "longitude": "18.072100", "markername": "green", "offset": 0, "text": "\x3cdiv class=\"gmap-popup\"\x3e\x3ch4\x3eKTH Royal Institute of Technology\x3c/h4\x3e\x3cdiv class=\"location vcard\"\x3e\n  \x3cdiv class=\"adr\"\x3e\n              \x3cdiv class=\"street-address\"\x3e\n        Valhallavägen 79              \x3c/div\x3e\n              \x3cspan class=\"locality\"\x3eStockholm\x3c/span\x3e                  \x3cspan class=\"postal-code\"\x3e114 27\x3c/span\x3e\n              \x3cdiv class=\"country-name\"\x3eSweden\x3c/div\x3e\n                                      \x3c/div\x3e\n  \x3c/div\x3e\n\x3c/div\x3e" } ] } } });
+//--><!]]>
+</script>
+</head>
+
+<body id="pid-auralizationdb-content-r1-nuclear-reactor-hall" class="not-front not-logged-in page-node node-type-auralization no-sidebars full-node layout-main sidebars-split font-family-sans-serif-sm font-size-14 grid-type-960 grid-width-16">
+  <div id="page" class="page">
+    <div id="page-inner" class="page-inner">
+      <div id="skip">
+        <a href="#main-content-area">Skip to Main Content Area</a>
+      </div>
+
+      <!-- header-top row: width = grid_width -->
+      
+      <!-- header-group row: width = grid_width -->
+      <div id="header-group-wrapper" class="header-group-wrapper full-width">
+        <div id="header-group" class="header-group row grid16-16">
+          <div id="header-group-inner" class="header-group-inner inner clearfix">
+                        
+            
+            
+<div id="block-menu-primary-links" class="block block-menu odd first grid16-16 fusion-right fusion-inline-menu fusion-align-menu-right">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <ul class="menu"><li class="leaf first"><a href="/" title="The Home Page">Home</a></li>
+<li class="leaf active-trail"><a href="/auralizationdb" title="Database of Impulse Responses and Related Information">IR Data</a></li>
+<li class="leaf"><a href="/anechoicdb" title="Database of Anechoic Sounds">Anechoic Data</a></li>
+<li class="leaf"><a href="/resources" title="Useful Downloads and Links">Resources</a></li>
+<li class="leaf"><a href="/about" title="Information About this Website">About</a></li>
+<li class="leaf last"><a href="/user/login" title="Log in or Register to the Site">Log in</a></li>
+</ul>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+
+<div id="block-menu-menu-auralization-menu" class="block block-menu even  last grid16-14 fusion-inline-menu fusion-align-menu-right-small">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <ul class="menu"><li class="leaf first active-trail"><a href="/auralizationdb" title="Browse and Search for Content">Browse Auralization Data</a></li>
+<li class="leaf last"><a href="/auralizationdb/map" title="Browse the Auralization Data on the World Map">Auralization Map</a></li>
+</ul>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+                      </div><!-- /header-group-inner -->
+        </div><!-- /header-group -->
+      </div><!-- /header-group-wrapper -->
+
+      <!-- preface-top row: width = grid_width -->
+      
+      <!-- main row: width = grid_width -->
+      <div id="main-wrapper" class="main-wrapper full-width">
+        <div id="main" class="main row grid16-16">
+          <div id="main-inner" class="main-inner inner clearfix">
+            
+            <!-- main group: width = grid_width - sidebar_first_width -->
+            <div id="main-group" class="main-group row nested grid16-16">
+              <div id="main-group-inner" class="main-group-inner inner">
+                
+                <div id="main-content" class="main-content row nested">
+                  <div id="main-content-inner" class="main-content-inner inner">
+                    <!-- content group: width = grid_width - (sidebar_first_width + sidebar_last_width) -->
+                    <div id="content-group" class="content-group row nested grid16-16">
+                      <div id="content-group-inner" class="content-group-inner inner">
+                        
+                        
+                        <div id="content-region" class="content-region row nested">
+                          <div id="content-region-inner" class="content-region-inner inner">
+                            <a name="main-content-area" id="main-content-area"></a>
+                                                        <div id="content-inner" class="content-inner block">
+                              <div id="content-inner-inner" class="content-inner-inner inner">
+                                                                <h1 class="title">R1 Nuclear Reactor Hall</h1>
+                                                                                                <div id="content-content" class="content-content">
+                                  
+<div id="node-123" class="node odd full-node node-type-auralization">
+  <div class="inner">
+    
+    
+    
+    
+    <div class="content clearfix">
+      <div id="tabs-tabset" class="drupal-tabs js-hide tabs-navigation"><div class="description"></div><ul class="clear-block"><li class="information"><a href="#information"><span class="tab">Information</span></a></li><li class="analysis"><a href="#analysis"><span class="tab">Analysis</span></a></li><li class="impulse-responses"><a href="#impulse-responses"><span class="tab">Impulse Responses</span></a></li><li class="images"><a href="#images"><span class="tab">Images</span></a></li><li class="location"><a href="#location"><span class="tab">Location</span></a></li><li class="attribution"><a href="#attribution"><span class="tab">Attribution</span></a></li></ul><div id="information" class="tabs-tabset"><h2 class="drupal-tabs-title js-hide">Information</h2><div class="field field-type-text field-field-description">
+      <div class="field-label">Description:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Built in 1954, the R1 Nuclear Reactor has not been used since 1970. However, the reactor hall still remains. It is found 25 metres underneath the KTH Royal Institute of Technology, near to Stolkholm.        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-team">
+      <div class="field-label">Measurement Team:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Damian T. Murphy        </div>
+        </div>
+</div>
+<div class="field field-type-date field-field-capture-date">
+      <div class="field-label">Capture Date:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <span class="date-display-single">Tue, 07/11/2006</span>        </div>
+        </div>
+</div>
+<div class="field field-type-number-float field-field-size">
+      <div class="field-label">Size:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    3500 m³        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-source-sound">
+      <div class="field-label">Source Sound:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Swept Sine; 20 Hz - 22 kHz; 15 Seconds        </div>
+        </div>
+</div>
+<div class="field field-type-content-taxonomy field-field-source-cat">
+      <div class="field-label">Source Sound Category:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Swept sine (logarithmic)        </div>
+        </div>
+</div>
+<div class="field field-type-content-taxonomy field-field-space-cat">
+      <div class="field-label">Space Category:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Hall        </div>
+        </div>
+</div>
+<div class="field field-type-content-taxonomy field-field-generation">
+      <div class="field-label">Generation Type:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Real World        </div>
+        </div>
+</div>
+<div class="field field-type-link field-field-links">
+      <div class="field-label">Related Links:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <a href="http://viewat.org/?i=en&amp;id_pn=1734&amp;sec=pn" target="_blank">Panoramic Photograph of Site</a>        </div>
+        </div>
+</div>
+</div><div id="analysis" class="tabs-tabset"><h2 class="drupal-tabs-title js-hide">Analysis</h2><div class="field field-type-filefield field-field-convolve">
+      <div class="field-label">Demonstration Impulse Response:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <br /><h4 align=right>Waveform</h4><a href='/upload-sound?node=123'><img src="/sites/default/files/auralization/demonstration/r1_omni_48k.png" alt="impulse" title="impulse" width="970" height="420" /></a><div>
+<object id = "player" type="application/x-shockwave-flash" data="/sites/all/modules/convolvefield/players/player.swf" width="960" height="24" >
+  <param name="movie" value="/sites/all/modules/convolvefield/players/player.swf" />
+  <param name="wmode" value="transparent" />
+  <param name="menu" value="false" />
+  <param name="quality" value="high" />
+  <param name="FlashVars" value="soundFile=http%3A%2F%2Fwww.openairlib.net%2Fsites%2Fdefault%2Ffiles%2Fauralization%2Fdemonstration%2Fr1_omni_48k.mp3&initialvolume=100&loader=6699FF&transparentpagebg=yes&volslider=6699FF&lefticon=ffffff&righticon=6699FF&bg=b3b3b3&leftbg=b3b3b3&rightbg=b3b3b3&animation=no&titles=Impulse+Response" />
+  <embed name = "player1" src="/sites/all/modules/convolvefield/players/player.swf" flashvars="soundFile=http%3A%2F%2Fwww.openairlib.net%2Fsites%2Fdefault%2Ffiles%2Fauralization%2Fdemonstration%2Fr1_omni_48k.mp3&initialvolume=100&loader=6699FF&transparentpagebg=yes&volslider=6699FF&lefticon=ffffff&righticon=6699FF&bg=b3b3b3&leftbg=b3b3b3&rightbg=b3b3b3&animation=no&titles=Impulse+Response" width="960" height="24">
+  </embed>
+  <a style="color:#6699FF" href="http://www.openairlib.net/sites/default/files/auralization/demonstration/r1_omni_48k.mp3" >   Click here to listen to the original anechoic sound</a>
+</object>
+</div>Click <a href='/upload-sound?node=123'>here</a> or on the waveform to upload a sound from your computer and hear it in this space<br /> <h4 align=right>Acoustic Parameters</h4><br /><b>Octave Band</b><table class="sticky-enabled">
+ <thead><tr><th>31.25 Hz</th><th>62.5 Hz</th><th>125 Hz</th><th>250 Hz</th><th>500 Hz</th><th>1 kHz</th><th>2 kHz</th><th>4 kHz</th><th>8 kHz</th><th>16 kHz</th> </tr></thead>
+<tbody>
+ <tr class="odd"><td colspan="10"></br><b>Reverberation Time</b> RT60 T30 (seconds)</td> </tr>
+ <tr class="even"><td>6.98</td><td>5.45</td><td>4.49</td><td>5.15</td><td>5.43</td><td>4.78</td><td>3.60</td><td>2.51</td><td>1.45</td><td>0.98</td> </tr>
+ <tr class="odd"><td colspan="10"></br><b>Early Decay Time</b> EDT (seconds)</td> </tr>
+ <tr class="even"><td>6.15</td><td>5.12</td><td>3.84</td><td>4.35</td><td>4.35</td><td>4.10</td><td>2.82</td><td>1.92</td><td>1.03</td><td>0.51</td> </tr>
+ <tr class="odd"><td colspan="10"></br><b>Definition</b> D50</td> </tr>
+ <tr class="even"><td>0.02</td><td>0.11</td><td>0.13</td><td>0.17</td><td>0.22</td><td>0.24</td><td>0.40</td><td>0.50</td><td>0.59</td><td>0.79</td> </tr>
+ <tr class="odd"><td colspan="10"></br><b>Clarity</b> C50 (dB)</td> </tr>
+ <tr class="even"><td>-17.33</td><td>-9.15</td><td>-8.29</td><td>-6.82</td><td>-5.61</td><td>-4.93</td><td>-1.73</td><td>-0.03</td><td>1.53</td><td>5.76</td> </tr>
+ <tr class="odd"><td colspan="10"></br><b>Clarity</b> C80 (dB)</td> </tr>
+ <tr class="even"><td>-15.65</td><td>-7.04</td><td>-4.51</td><td>-1.40</td><td>-3.53</td><td>-3.24</td><td>-0.01</td><td>2.06</td><td>5.07</td><td>11.22</td> </tr>
+</tbody>
+</table>
+<br /><br /><h4 align=right>Example Audio</h4><div>
+<object id = "player" type="application/x-shockwave-flash" data="/sites/all/modules/convolvefield/players/player.swf" width="960" height="24" >
+  <param name="movie" value="/sites/all/modules/convolvefield/players/player.swf" />
+  <param name="wmode" value="transparent" />
+  <param name="menu" value="false" />
+  <param name="quality" value="high" />
+  <param name="FlashVars" value="soundFile=http%3A%2F%2Fwww.openairlib.net%2Fsites%2Fdefault%2Ffiles%2Faudio%2Fsinging.mp3&initialvolume=100&loader=6699FF&transparentpagebg=yes&volslider=6699FF&lefticon=ffffff&righticon=6699FF&bg=b3b3b3&leftbg=b3b3b3&rightbg=b3b3b3&animation=no&titles=Anechoic+soprano." />
+  <embed name = "player1" src="/sites/all/modules/convolvefield/players/player.swf" flashvars="soundFile=http%3A%2F%2Fwww.openairlib.net%2Fsites%2Fdefault%2Ffiles%2Faudio%2Fsinging.mp3&initialvolume=100&loader=6699FF&transparentpagebg=yes&volslider=6699FF&lefticon=ffffff&righticon=6699FF&bg=b3b3b3&leftbg=b3b3b3&rightbg=b3b3b3&animation=no&titles=Anechoic+soprano." width="960" height="24">
+  </embed>
+  <a style="color:#6699FF" href="http://www.openairlib.net/sites/default/files/audio/singing.mp3" >   Click here to listen to the original anechoic sound</a>
+</object>
+</div><div>
+<object id = "player" type="application/x-shockwave-flash" data="/sites/all/modules/convolvefield/players/player.swf" width="960" height="24" >
+  <param name="movie" value="/sites/all/modules/convolvefield/players/player.swf" />
+  <param name="wmode" value="transparent" />
+  <param name="menu" value="false" />
+  <param name="quality" value="high" />
+  <param name="FlashVars" value="soundFile=http%3A%2F%2Fwww.openairlib.net%2Fsites%2Fdefault%2Ffiles%2Fauralization%2Fdemonstration%2Fr1_omni_48k_sing.mp3&initialvolume=100&loader=6699FF&transparentpagebg=yes&volslider=6699FF&lefticon=ffffff&righticon=6699FF&bg=b3b3b3&leftbg=b3b3b3&rightbg=b3b3b3&animation=no&titles=Hear+the+soprano+in+this+space." />
+  <embed name = "player1" src="/sites/all/modules/convolvefield/players/player.swf" flashvars="soundFile=http%3A%2F%2Fwww.openairlib.net%2Fsites%2Fdefault%2Ffiles%2Fauralization%2Fdemonstration%2Fr1_omni_48k_sing.mp3&initialvolume=100&loader=6699FF&transparentpagebg=yes&volslider=6699FF&lefticon=ffffff&righticon=6699FF&bg=b3b3b3&leftbg=b3b3b3&rightbg=b3b3b3&animation=no&titles=Hear+the+soprano+in+this+space." width="960" height="24">
+  </embed>
+  <a style="color:#6699FF" href="http://www.openairlib.net/sites/default/files/auralization/demonstration/r1_omni_48k_sing.mp3" >   Click here to listen to the original anechoic sound</a>
+</object>
+</div> <br /><div>
+<object id = "player" type="application/x-shockwave-flash" data="/sites/all/modules/convolvefield/players/player.swf" width="960" height="24" >
+  <param name="movie" value="/sites/all/modules/convolvefield/players/player.swf" />
+  <param name="wmode" value="transparent" />
+  <param name="menu" value="false" />
+  <param name="quality" value="high" />
+  <param name="FlashVars" value="soundFile=http%3A%2F%2Fwww.openairlib.net%2Fsites%2Fdefault%2Ffiles%2Faudio%2Fdrums.mp3&initialvolume=100&loader=6699FF&transparentpagebg=yes&volslider=6699FF&lefticon=ffffff&righticon=6699FF&bg=b3b3b3&leftbg=b3b3b3&rightbg=b3b3b3&animation=no&titles=Synthesized+drums." />
+  <embed name = "player1" src="/sites/all/modules/convolvefield/players/player.swf" flashvars="soundFile=http%3A%2F%2Fwww.openairlib.net%2Fsites%2Fdefault%2Ffiles%2Faudio%2Fdrums.mp3&initialvolume=100&loader=6699FF&transparentpagebg=yes&volslider=6699FF&lefticon=ffffff&righticon=6699FF&bg=b3b3b3&leftbg=b3b3b3&rightbg=b3b3b3&animation=no&titles=Synthesized+drums." width="960" height="24">
+  </embed>
+  <a style="color:#6699FF" href="http://www.openairlib.net/sites/default/files/audio/drums.mp3" >   Click here to listen to the original anechoic sound</a>
+</object>
+</div><div>
+<object id = "player" type="application/x-shockwave-flash" data="/sites/all/modules/convolvefield/players/player.swf" width="960" height="24" >
+  <param name="movie" value="/sites/all/modules/convolvefield/players/player.swf" />
+  <param name="wmode" value="transparent" />
+  <param name="menu" value="false" />
+  <param name="quality" value="high" />
+  <param name="FlashVars" value="soundFile=http%3A%2F%2Fwww.openairlib.net%2Fsites%2Fdefault%2Ffiles%2Fauralization%2Fdemonstration%2Fr1_omni_48k_drum.mp3&initialvolume=100&loader=6699FF&transparentpagebg=yes&volslider=6699FF&lefticon=ffffff&righticon=6699FF&bg=b3b3b3&leftbg=b3b3b3&rightbg=b3b3b3&animation=no&titles=Hear+the+synthesized+drums+in+this+space." />
+  <embed name = "player1" src="/sites/all/modules/convolvefield/players/player.swf" flashvars="soundFile=http%3A%2F%2Fwww.openairlib.net%2Fsites%2Fdefault%2Ffiles%2Fauralization%2Fdemonstration%2Fr1_omni_48k_drum.mp3&initialvolume=100&loader=6699FF&transparentpagebg=yes&volslider=6699FF&lefticon=ffffff&righticon=6699FF&bg=b3b3b3&leftbg=b3b3b3&rightbg=b3b3b3&animation=no&titles=Hear+the+synthesized+drums+in+this+space." width="960" height="24">
+  </embed>
+  <a style="color:#6699FF" href="http://www.openairlib.net/sites/default/files/auralization/demonstration/r1_omni_48k_drum.mp3" >   Click here to listen to the original anechoic sound</a>
+</object>
+</div><br /><h4 align=right>Widget for external sites</h4><div class="view view-external view-id-external view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-field-convolve-fid">
+                <span class="field-content">
+</span>
+  </div>
+  </div>
+    </div>
+  
+  
+      <div class="attachment attachment-after">
+      <div class="form-item" id="web_widgets_0-wrapper">
+ <label for="web_widgets_0">Embed code: </label>
+ <input type="text" name="web_widgets" id="web_widgets_0" size="60" value="&lt;script type=&quot;text/javascript&quot;&gt;
+widgetContext = { &quot;url&quot;: &quot;http://www.openairlib.net/path/123/ir_widget&quot;, &quot;width&quot;: &quot;450&quot;, &quot;height&quot;: &quot;350&quot;, &quot;widgetid&quot;: &quot;web_widget_iframe_52993983cf1909db33fcf647f69398c0&quot; };
+&lt;/script&gt;
+&lt;script id=&quot;web_widget_iframe_52993983cf1909db33fcf647f69398c0&quot; src=&quot;http://www.openairlib.net/sites/all/modules/web_widgets/iframe/web_widgets_iframe.js&quot;&gt;&lt;/script&gt;
+" class="form-text" />
+ <div class="description">Copy and paste this code to your website.</div>
+</div>
+    </div>
+  
+  
+  
+  
+</div>         </div>
+        </div>
+</div>
+</div><div id="impulse-responses" class="tabs-tabset"><h2 class="drupal-tabs-title js-hide">Impulse Responses</h2><div class="field field-type-text field-field-format">
+      <div class="field-label">Format(s):&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Mono        </div>
+              <div class="field-item even">
+                    Stereo (Stereo Files)        </div>
+              <div class="field-item odd">
+                    5.1 Surround (6 Channel Files)        </div>
+              <div class="field-item even">
+                    B-Format (4 Channel Files)        </div>
+        </div>
+</div>
+<div class="field field-type-filefield field-field-mono">
+      <div class="field-label">Mono:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/audiolab/r1-nuclear-reactor-hall/mono/r1_omni.wav" type="audio/x-wav; length=2638160" title="r1_omni.wav">Omnidirectional mono recording</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>44.1 kHz<br>
+        <b>Number of Channels: </b>1<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>19.94 s<br>
+        <b>File Size: </b>2.52 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"><b>Source Sound: </b>Genelec 8240A loudspeaker, 15 second log. sine sweep<br><b>Microphone: </b>Soundfield Microphone, SPS422B<br><b>Source Location: </b>In the centre, on one side of the pit<br><b>Microphone Location: </b>In the centre, on other side of the pit<br><b>Source Receiver Distance (m): </b>14.88 m<br><b>Source Height: </b>1.5 m<br><b>Receiver Height: </b>1.5 m<br></div><br clear=both>        </div>
+              <div class="field-item even">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/audiolab/r1-nuclear-reactor-hall/mono/r1_omni_48k.wav" type="audio/x-wav; length=2871442" title="r1_omni_48k.wav">Omnidirectional mono recording</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>48 kHz<br>
+        <b>Number of Channels: </b>1<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>19.94 s<br>
+        <b>File Size: </b>2.74 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"><b>Source Sound: </b>Genelec 8240A loudspeaker, 15 second log. sine sweep<br><b>Microphone: </b>Soundfield Microphone, SPS422B<br><b>Source Location: </b>In the centre, on one side of the pit<br><b>Microphone Location: </b>In the centre, on other side of the pit<br><b>Source Receiver Distance (m): </b>14.88 m<br><b>Source Height: </b>1.5 m<br><b>Receiver Height: </b>1.5 m<br></div><br clear=both>        </div>
+        </div>
+</div>
+<div class="field field-type-filefield field-field-stereo">
+      <div class="field-label">Stereo:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/audiolab/r1-nuclear-reactor-hall/stereo/r1_ortf.wav" type="audio/x-wav; length=5366438" title="r1_ortf.wav">Stereo ORTF</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>44.1 kHz<br>
+        <b>Number of Channels: </b>2<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>20.28 s<br>
+        <b>File Size: </b>5.12 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"><b>Source Sound: </b>Genelec 8240A loudspeaker, 15 second log. sine sweep<br><b>Microphone: </b>Cardioid Microphone, Neumann KM 140<br><b>Source Location: </b>In the centre, on one side of the pit<br><b>Microphone Location: </b>In the centre, on other side of the pit<br><b>Source Receiver Distance (m): </b>14.88 m<br><b>Source Height: </b>1.5 m<br><b>Receiver Height: </b>1.5 m<br></div><br clear=both>        </div>
+              <div class="field-item even">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/audiolab/r1-nuclear-reactor-hall/stereo/r1_ortf-48k.wav" type="audio/x-wav; length=5840914" title="r1_ortf-48k.wav">Stereo ORTF</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>48 kHz<br>
+        <b>Number of Channels: </b>2<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>20.28 s<br>
+        <b>File Size: </b>5.57 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"><b>Source Sound: </b>Genelec 8240A loudspeaker, 15 second log. sine sweep<br><b>Microphone: </b>Cardioid Microphone, Neumann KM 140<br><b>Source Location: </b>In the centre, on one side of the pit<br><b>Microphone Location: </b>In the centre, on other side of the pit<br><b>Source Receiver Distance (m): </b>14.88 m<br><b>Source Height: </b>1.5 m<br><b>Receiver Height: </b>1.5 m<br></div><br clear=both>        </div>
+        </div>
+</div>
+<div class="field field-type-filefield field-field-bformat-multi">
+      <div class="field-label">B-Format: Multichannel:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/audiolab/r1-nuclear-reactor-hall/b-format/r1_bformat.wav" type="audio/x-wav; length=7832964" title="r1_bformat.wav">B-Format</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>44.1 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>14.8 s<br>
+        <b>File Size: </b>7.47 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"><b>Source Sound: </b>Genelec 8240A loudspeaker, 15 second log. sine sweep<br><b>Microphone: </b>Soundfield Microphone, SPS422B<br><b>Source Location: </b>In the centre, on one side of the pit<br><b>Microphone Location: </b>In the centre, on other side of the pit<br><b>Source Receiver Distance (m): </b>14.88 m<br><b>Source Height: </b>1.5 m<br><b>Receiver Height: </b>1.5 m<br></div><br clear=both>        </div>
+              <div class="field-item even">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/audiolab/r1-nuclear-reactor-hall/b-format/r1_bformat-48k.wav" type="audio/x-wav; length=5069224" title="r1_bformat-48k.wav">B-Format</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>48 kHz<br>
+        <b>Number of Channels: </b>4<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>8.8 s<br>
+        <b>File Size: </b>4.83 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"><b>Source Sound: </b>Genelec 8240A loudspeaker, 15 second log. sine sweep<br><b>Microphone: </b>Soundfield Microphone, SPS422B<br><b>Source Location: </b>In the centre, on one side of the pit<br><b>Microphone Location: </b>In the centre, on other side of the pit<br><b>Source Receiver Distance (m): </b>14.88 m<br><b>Source Height: </b>1.5 m<br><b>Receiver Height: </b>1.5 m<br></div><br clear=both>        </div>
+        </div>
+</div>
+<div class="field field-type-filefield field-field-surround-5">
+      <div class="field-label">5.1 Surround:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/audiolab/r1-nuclear-reactor-hall/surround-5-1/r1_williams.wav" type="audio/x-wav; length=7779666" title="r1_williams.wav">5.0 Williams Array</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>44.1 kHz<br>
+        <b>Number of Channels: </b>6<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>9.8 s<br>
+        <b>File Size: </b>7.42 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"><b>Source Sound: </b>Genelec 8240A loudspeaker, 15 second log. sine sweep<br><b>Microphone: </b>Soundfield Microphone, SPS422B<br><b>Source Location: </b>In the centre, on one side of the pit<br><b>Microphone Location: </b>In the centre, on other side of the pit<br><b>Source Receiver Distance (m): </b>14.88 m<br><b>Source Height: </b>1.5 m<br><b>Receiver Height: </b>1.5 m<br></div><br clear=both>        </div>
+              <div class="field-item even">
+                    <br clear=both><ul><li><div id="soundfile_download" style="background: lightblue;"><img class="filefield-icon field-icon-audio-x-wav"  alt="audio/x-wav icon" src="http://www.openairlib.net/sites/all/modules/filefield/icons/audio-x-generic.png" /><a href="http://www.openairlib.net/sites/default/files/auralization/data/audiolab/r1-nuclear-reactor-hall/surround-5-1/r1_williams-48k.wav" type="audio/x-wav; length=7603626" title="r1_williams-48k.wav">5.0 Williams Array</a></div</li></ul><div id="soundfile_left">
+        
+        <b>Sample Rate: </b>48 kHz<br>
+        <b>Number of Channels: </b>6<br>
+        <b>Bits per Sample:  </b>24<br>
+        <b>Duration: </b>8.8 s<br>
+        <b>File Size: </b>7.25 MB<br>
+        <b>File Format: </b>wav
+        
+        
+        </div><div id="soundfile_right"><b>Source Sound: </b>Genelec 8240A loudspeaker, 15 second log. sine sweep<br><b>Microphone: </b>Soundfield Microphone, SPS422B<br><b>Source Location: </b>In the centre, on one side of the pit<br><b>Microphone Location: </b>In the centre, on other side of the pit<br><b>Source Receiver Distance (m): </b>14.88 m<br><b>Source Height: </b>1.5 m<br><b>Receiver Height: </b>1.5 m<br></div><br clear=both>        </div>
+        </div>
+</div>
+</div><div id="images" class="tabs-tabset"><h2 class="drupal-tabs-title js-hide">Images</h2><div class="field field-type-filefield field-field-photo">
+      <div class="field-label">Photographs and Diagrams:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <a href="http://www.openairlib.net/sites/default/files/auralization/data/audiolab/r1-nuclear-reactor-hall/images/p1010907.jpg" rel="lightbox[field_photo][R1 Nuclear Reactor Hall]" class="imagefield imagefield-lightbox2 imagefield-lightbox2-main imagefield-field_photo imagecache imagecache-field_photo imagecache-main imagecache-field_photo-main"><img src="http://www.openairlib.net/sites/default/files/imagecache/main/auralization/data/audiolab/r1-nuclear-reactor-hall/images/p1010907.jpg" alt="R1 Nuclear Reactor Hall" title="" width="298" height="225"/></a>        </div>
+              <div class="field-item even">
+                    <a href="http://www.openairlib.net/sites/default/files/auralization/data/audiolab/r1-nuclear-reactor-hall/images/p1010908.jpg" rel="lightbox[field_photo][R1 Nuclear Reactor Hall]" class="imagefield imagefield-lightbox2 imagefield-lightbox2-main imagefield-field_photo imagecache imagecache-field_photo imagecache-main imagecache-field_photo-main"><img src="http://www.openairlib.net/sites/default/files/imagecache/main/auralization/data/audiolab/r1-nuclear-reactor-hall/images/p1010908.jpg" alt="R1 Nuclear Reactor Hall" title="" width="298" height="225"/></a>        </div>
+              <div class="field-item odd">
+                    <a href="http://www.openairlib.net/sites/default/files/auralization/data/audiolab/r1-nuclear-reactor-hall/images/p1010913.jpg" rel="lightbox[field_photo][R1 Nuclear Reactor Hall]" class="imagefield imagefield-lightbox2 imagefield-lightbox2-main imagefield-field_photo imagecache imagecache-field_photo imagecache-main imagecache-field_photo-main"><img src="http://www.openairlib.net/sites/default/files/imagecache/main/auralization/data/audiolab/r1-nuclear-reactor-hall/images/p1010913.jpg" alt="R1 Nuclear Reactor Hall" title="" width="298" height="225"/></a>        </div>
+              <div class="field-item even">
+                    <a href="http://www.openairlib.net/sites/default/files/auralization/data/audiolab/r1-nuclear-reactor-hall/images/dscf0126.jpg" rel="lightbox[field_photo][R1 Nuclear Reactor Hall]" class="imagefield imagefield-lightbox2 imagefield-lightbox2-main imagefield-field_photo imagecache imagecache-field_photo imagecache-main imagecache-field_photo-main"><img src="http://www.openairlib.net/sites/default/files/imagecache/main/auralization/data/audiolab/r1-nuclear-reactor-hall/images/dscf0126.jpg" alt="R1 Nuclear Reactor Hall" title="" width="298" height="225"/></a>        </div>
+              <div class="field-item odd">
+                    <a href="http://www.openairlib.net/sites/default/files/auralization/data/audiolab/r1-nuclear-reactor-hall/images/dscf0127.jpg" rel="lightbox[field_photo][R1 Nuclear Reactor Hall]" class="imagefield imagefield-lightbox2 imagefield-lightbox2-main imagefield-field_photo imagecache imagecache-field_photo imagecache-main imagecache-field_photo-main"><img src="http://www.openairlib.net/sites/default/files/imagecache/main/auralization/data/audiolab/r1-nuclear-reactor-hall/images/dscf0127.jpg" alt="R1 Nuclear Reactor Hall" title="" width="298" height="225"/></a>        </div>
+              <div class="field-item even">
+                    <a href="http://www.openairlib.net/sites/default/files/auralization/data/audiolab/r1-nuclear-reactor-hall/images/dscf0128.jpg" rel="lightbox[field_photo][R1 Nuclear Reactor Hall]" class="imagefield imagefield-lightbox2 imagefield-lightbox2-main imagefield-field_photo imagecache imagecache-field_photo imagecache-main imagecache-field_photo-main"><img src="http://www.openairlib.net/sites/default/files/imagecache/main/auralization/data/audiolab/r1-nuclear-reactor-hall/images/dscf0128.jpg" alt="R1 Nuclear Reactor Hall" title="" width="298" height="225"/></a>        </div>
+              <div class="field-item odd">
+                    <a href="http://www.openairlib.net/sites/default/files/auralization/data/audiolab/r1-nuclear-reactor-hall/images/dscf0129.jpg" rel="lightbox[field_photo][R1 Nuclear Reactor Hall]" class="imagefield imagefield-lightbox2 imagefield-lightbox2-main imagefield-field_photo imagecache imagecache-field_photo imagecache-main imagecache-field_photo-main"><img src="http://www.openairlib.net/sites/default/files/imagecache/main/auralization/data/audiolab/r1-nuclear-reactor-hall/images/dscf0129.jpg" alt="R1 Nuclear Reactor Hall" title="" width="298" height="225"/></a>        </div>
+              <div class="field-item even">
+                    <a href="http://www.openairlib.net/sites/default/files/auralization/data/audiolab/r1-nuclear-reactor-hall/images/dscf0130.jpg" rel="lightbox[field_photo][R1 Nuclear Reactor Hall]" class="imagefield imagefield-lightbox2 imagefield-lightbox2-main imagefield-field_photo imagecache imagecache-field_photo imagecache-main imagecache-field_photo-main"><img src="http://www.openairlib.net/sites/default/files/imagecache/main/auralization/data/audiolab/r1-nuclear-reactor-hall/images/dscf0130.jpg" alt="R1 Nuclear Reactor Hall" title="" width="298" height="225"/></a>        </div>
+              <div class="field-item odd">
+                    <a href="http://www.openairlib.net/sites/default/files/auralization/data/audiolab/r1-nuclear-reactor-hall/images/dscf0131.jpg" rel="lightbox[field_photo][R1 Nuclear Reactor Hall]" class="imagefield imagefield-lightbox2 imagefield-lightbox2-main imagefield-field_photo imagecache imagecache-field_photo imagecache-main imagecache-field_photo-main"><img src="http://www.openairlib.net/sites/default/files/imagecache/main/auralization/data/audiolab/r1-nuclear-reactor-hall/images/dscf0131.jpg" alt="R1 Nuclear Reactor Hall" title="" width="298" height="225"/></a>        </div>
+              <div class="field-item even">
+                    <a href="http://www.openairlib.net/sites/default/files/auralization/data/audiolab/r1-nuclear-reactor-hall/images/dscf0132.jpg" rel="lightbox[field_photo][R1 Nuclear Reactor Hall]" class="imagefield imagefield-lightbox2 imagefield-lightbox2-main imagefield-field_photo imagecache imagecache-field_photo imagecache-main imagecache-field_photo-main"><img src="http://www.openairlib.net/sites/default/files/imagecache/main/auralization/data/audiolab/r1-nuclear-reactor-hall/images/dscf0132.jpg" alt="R1 Nuclear Reactor Hall" title="" width="298" height="225"/></a>        </div>
+              <div class="field-item odd">
+                    <a href="http://www.openairlib.net/sites/default/files/auralization/data/audiolab/r1-nuclear-reactor-hall/images/dscf0133.jpg" rel="lightbox[field_photo][R1 Nuclear Reactor Hall]" class="imagefield imagefield-lightbox2 imagefield-lightbox2-main imagefield-field_photo imagecache imagecache-field_photo imagecache-main imagecache-field_photo-main"><img src="http://www.openairlib.net/sites/default/files/imagecache/main/auralization/data/audiolab/r1-nuclear-reactor-hall/images/dscf0133.jpg" alt="R1 Nuclear Reactor Hall" title="" width="298" height="225"/></a>        </div>
+        </div>
+</div>
+</div><div id="location" class="tabs-tabset"><h2 class="drupal-tabs-title js-hide">Location</h2><div class="field field-type-location field-field-location">
+      <div class="field-label">Address:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <div class="location vcard">
+  <div class="adr">
+          <span class="fn">KTH Royal Institute of Technology</span>
+              <div class="street-address">
+        Valhallavägen 79              </div>
+              <span class="locality">Stockholm</span>                  <span class="postal-code">114 27</span>
+              <div class="country-name">Sweden</div>
+                                      </div>
+  </div>
+<div style="width: 960px; height: 300px;" id="gmap-auto2map-gmap0" class="gmap-control gmap-gmap gmap gmap-map gmap-auto2map-gmap">Javascript is required to view this map.</div>        </div>
+        </div>
+</div>
+</div><div id="attribution" class="tabs-tabset"><h2 class="drupal-tabs-title js-hide">Attribution</h2><div class="field field-type-text field-field-licensor">
+      <div class="field-label">Attribute this work to:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    www.openairlib.net        </div>
+              <div class="field-item even">
+                    Audiolab, University of York        </div>
+              <div class="field-item odd">
+                    Dr. Damian T. Murphy        </div>
+        </div>
+</div>
+</div></div>    </div>
+
+        <div class="terms">
+      <ul class="links inline"><li class="taxonomy_term_19 first last"><a href="/category/generation-type/real-world" rel="tag" title="">Real World</a></li>
+</ul>    </div>
+    
+      </div><!-- /inner -->
+
+  </div><!-- /node-123 -->
+
+
+                                                                  </div><!-- /content-content -->
+                                                              </div><!-- /content-inner-inner -->
+                            </div><!-- /content-inner -->
+                          </div><!-- /content-region-inner -->
+                        </div><!-- /content-region -->
+
+                        <div id="content-bottom" class="content-bottom row nested ">
+<div id="content-bottom-inner" class="content-bottom-inner inner clearfix">
+
+<div id="block-creativecommons_lite-0" class="block block-creativecommons_lite odd first last  grid16-16">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <p class="creativecommons">
+<!--Creative Commons License-->
+<a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license" title="Attribution Share Alike"><img alt="Creative Commons license icon" src="/sites/all/modules/creativecommons_lite/images/buttons_large/by-sa.png" /></a>
+<br />License for this content: <a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license">Attribution Share Alike Creative Commons license</a><br />
+<!--/Creative Commons License-->
+</p>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+</div><!-- /content-bottom-inner -->
+</div><!-- /content-bottom -->
+                      </div><!-- /content-group-inner -->
+                    </div><!-- /content-group -->
+
+                                      </div><!-- /main-content-inner -->
+                </div><!-- /main-content -->
+
+                              </div><!-- /main-group-inner -->
+            </div><!-- /main-group -->
+          </div><!-- /main-inner -->
+        </div><!-- /main -->
+      </div><!-- /main-wrapper -->
+
+      <!-- postscript-bottom row: width = grid_width -->
+      
+      <!-- footer row: width = grid_width -->
+      <div id="footer-wrapper" class="footer-wrapper full-width">
+<div id="footer" class="footer row grid16-16">
+<div id="footer-inner" class="footer-inner inner clearfix">
+
+<div id="block-menu-menu-footer-menu" class="block block-menu odd first last fusion-center-content fusion-inline-menu grid16-16">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <ul class="menu"><li class="leaf first"><a href="/contact" title="">contact us</a></li>
+<li class="leaf"><a href="/acknowledgements" title="">acknowledgements</a></li>
+<li class="leaf"><a href="/privacy-policy" title="">privacy policy</a></li>
+<li class="leaf last"><a href="http://www.york.ac.uk/about/legal-statements/ " title="">disclaimer</a></li>
+</ul>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+</div><!-- /footer-inner -->
+</div><!-- /footer -->
+</div><!-- /footer-wrapper -->
+
+      <!-- footer-message row: width = grid_width -->
+      <div id="footer-message-wrapper" class="footer-message-wrapper full-width">
+        <div id="footer-message" class="footer-message row grid16-16">
+          <div id="footer-message-inner" class="footer-message-inner inner clearfix">
+                      </div><!-- /footer-message-inner -->
+        </div><!-- /footer-message -->
+      </div><!-- /footer-message-wrapper -->
+
+    </div><!-- /page-inner -->
+  </div><!-- /page -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-19363976-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+</body>
+</html>
