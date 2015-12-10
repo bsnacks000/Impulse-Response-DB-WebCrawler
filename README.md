@@ -16,7 +16,7 @@ NOTE: Some content from the database was manually removed due to lack of data as
 future results of the extraction script.
 
 
-required packages: rvest, dplyr, tidyr and stringr
+required packages: rvest, dplyr, tidyr, ggplot2 and stringr
 
 
 
