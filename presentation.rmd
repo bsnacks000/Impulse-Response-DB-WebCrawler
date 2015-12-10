@@ -1,0 +1,409 @@
+---
+title: "Impulse Response Database"
+author: "jdeblase"
+date: "December 8, 2015"
+output: 
+    html_document:
+        toc: true
+---
+
+## Introduction
+
+The Open AIR Library is an online catalog of samples that can be downloaded and used as impulse responses to simulate real environments in reverb based audio applications. The catalog is hosted by the University of York at www.openairlib.net and is the only online resource that provides detailed metadata and acoustic analysis along with each sample. Each sound has a unique URL with audio data analyzed according to octave band and grouped according to its space category and generation type.
+
+The goal of this project is to place the contents of the Open AIR Library into a database in order to find out which categories and locations of samples have the highest and lowest average reverb times. 
+
+Analysis of reverberation times would be useful to sound designers and audio engineers who might be interested in making more informed decisions about the IR samples they wish to use in a reverb application. If an engineer decides on transforming a sound with particular sonic characteristics, rather than trial and error they might be able to narrow the IR sample down to just a few choices based on category. 
+
+This project is reproducible and can be built using scripts from <a href="https://github.com/bsnacks000/IS607_Final">this github repo</a>.
+
+## Data Extraction
+
+The process of building the dataset begins with data extraction. As of this documentation, the database contains 56 seperate entries each with its own unique URL. Each entry contains multiple tabs with different sets of information. A sample entry from the database can be found <a href="http://www.openairlib.net/auralizationdb/content/elveden-hall-suffolk-england"> here </a>.
+
+The data from the tabs I will be focusing on extracting will be Information and Analysis. Almost all of the data extraction/web scraping is handled through the rvest and stringr libraries. 
+
+The first step in extracting the data was to quickly gather the urls in order to systematically download the page content for each entry. This was done by building a web crawler that pulls the links from the <a href="http://www.openairlib.net/auralizationdb">database listing page </a> and hits the "next button" until it runs out of pages. 
+
+```{r, eval=FALSE}
+crawler = function(){
+
+    library(rvest)
+
+    sess = html_session("http://www.openairlib.net/auralizationdb") # creates session object
+    
+    web_urls = sess %>%     # builds initial page from session object
+        html_nodes(".views_title a") %>%
+        html_attr("href")
+    
+    while(TRUE){
+        sess = try(follow_link(sess, "next"), silent = TRUE)    # crawls pages until follow_link errors out
+        
+        if (class(sess) != "try-error"){
+            web_urls = c(web_urls, html_attr(
+                html_nodes(sess, ".views_title a"),"href"))
+            
+        } else if (class(sess) == "try-error"){
+            break       # break out of while loop
+        
+        }
+    }
+    
+    return(web_urls)
+}
+```
+
+The extraction script uses this function to download the file into a local Html folder, with each file named after its URL. Two entries were eliminated from the project because they did not contain any frequency data.
+
+```{r, eval=FALSE}
+### extraction_script.R ###
+
+load("./crawler.rda") # loads crawler
+
+library(stringr)
+
+### Extracts websites, filters out 2 bad entries and builds into a local directory
+
+web_urls = crawler()
+web_urls = web_urls[c(-37, -44)]  # no freq data for these pages - eliminating
+
+if (!dir.exists("Html")){
+    dir.create("Html")
+}
+
+sapply(web_urls, function(i){
+    
+    download.file(
+        paste("http://www.openairlib.net",i,sep=""), 
+        destfile=paste("./Html/", 
+        str_extract(i,pattern="[^\\/]*$"),sep=""),
+        mode = 'wb'
+    ) 
+})
+```
+
+
+## Scraping and Cleaning
+
+Now that the set of source pages are saved locally, they can be scraped using Rvest. In order to do this, there are two helper functions, one to scrape the data from the Analysis tab and one to scrape the metadata for each location from the Information tab. The data is scraped and transformed into a tall dataframe using dplyr and tidyr.
+
+```{r}
+# freq_tab_builder function - scrapes Analysis tab
+
+
+freq_tab_builder = function(url_txt){
+    
+    # returns dataframe of freq table data 
+    
+    library(dplyr)
+    library(rvest)
+    
+    page = read_html(url_txt)
+    
+    ## build the freq table
+    tab = page %>%           # pulls raw freq data from a table
+        html_node("#analysis .field-items table") %>%
+        html_table()
+    
+    tab = tbl_df(tab) # convert to dplyr table for convience
+    
+    # seperate even and odd rows
+    response_type = tab[c(TRUE, FALSE), ] # odd rows
+    freq_data = tab[c(FALSE, TRUE), ] # even rows -- numerics
+    
+    # convert this variable to numeric
+    freq_data$`31.25 Hz` = as.numeric(freq_data$`31.25 Hz`)
+    
+    # extract names and rename variable
+    response_type = response_type[1]
+    names(response_type) = "Response_type"
+    
+    # bind to freq_data
+    freq_data = bind_cols(response_type, freq_data)
+
+    return(freq_data)    
+}
+
+
+```
+
+```{r}
+## page_information function-- scrapes Information tab
+
+page_information = function(url_txt){ 
+    
+    library(rvest)
+    library(stringr)
+    library(dplyr)
+    library(tidyr)
+    
+    page = read_html(url_txt)
+    
+    title = page %>%         # grabs page title
+        html_node("title") %>%
+        html_text() %>%
+        str_replace(pattern="( \\| .*)", replacement="")
+    
+    
+    tab_info = page %>%      # pulls information fields
+        html_nodes("#information .field-items") %>%
+        html_text() %>%
+        str_trim()
+    
+    info_headers = page %>%
+        html_nodes("#information .field-label")%>%
+        html_text() %>%
+        str_replace(pattern=":", replacement="") %>%
+        str_trim()
+    
+    names(tab_info) = info_headers
+    
+    page_info = c(
+        title, 
+        tab_info["Source Sound"],
+        tab_info["Source Sound Category"],
+        tab_info["Input"],
+        tab_info["Space Category"],
+        tab_info["Generation Type"]
+    )
+    
+    names(page_info) = NULL   #remove names
+    
+    ## create a dataframe of replicated page_info data -- append long (5 x 6 matrix)
+    
+    n = c("Location", "Source Sound","Source Sound Category", "Input", 
+          "Space Category", "Generation Type")
+    
+    page_info = tbl_df(
+        as.data.frame(
+            (matrix(
+                rep(page_info, each=5), nrow = 5, ncol = 6)
+            ),
+            stringsAsFactors = FALSE
+        )
+    )
+    colnames(page_info) = n
+    
+    return(page_info)
+}
+
+
+```
+
+The results of these two functions are combined using the build-single-location function which outputs a long dataframe of all the relevant information for each page.
+
+```{r}
+build_single_location = function(url_txt){
+    
+    library(dplyr)
+    library(tidyr)
+    
+    page = url_txt
+    
+    page_info = page_information(page)
+    
+    freq_data = freq_tab_builder(page)
+    
+    long_df = bind_cols(page_info, freq_data)   ## final long output
+    
+    ## tidyr -- transformation into tall df
+    
+    tall_df = long_df %>% gather("Octave_band","Freq", 8:17)
+    
+    return(tall_df)
+    
+}
+
+
+```
+
+Finally in the main script, the build-single-location function is looped over all the Html documents in the local folder. This results in a list of dataframes. These are then combined with a loop and call to dplyr::union on each frame to build the complete dataset.
+
+For the sake of reproducibility, the main script also builds the Html into the working directory by downloading the html content directly from the project github repo. All functions along with an object that contains the filenames are loaded directly into main.R
+
+
+```{r}
+load("./page_information.rda")  # loads page_info helper
+load("./freq_data_builder.rda") # loads freq table helper
+load("./build_location.rda") # loads build-single location function
+load("./page_names.rda") # loads page_names for file reference download
+
+library(stringr)
+library(dplyr)
+
+### ::main script:: 
+###    builds local HTML folder from github content...
+###    creates file names from local Html folder
+###    builds dataframe using lapply
+###    saves resulting image for use with analysis script
+
+
+# 1. Load Html files locally for scraping.
+#    Creates folder Html in working directory if it does not exist and loads 
+#    content from project github site.
+
+base_url = "https://raw.githubusercontent.com/bsnacks000/IS607_Final/master/Html/"
+
+if (!dir.exists("Html")){    
+    
+    dir.create("Html")
+
+    sapply(page_names, function(i){
+        
+        web_raw_url = paste(base_url,i,sep="") 
+        
+        download.file(
+            web_raw_url, 
+            destfile=paste("./Html/", str_extract(i,pattern="[^\\/]*$"),sep=""),
+            mode = 'wb'
+        ) 
+        
+    })
+}
+###
+
+filenames = list.files("./Html", full.names = TRUE)
+dfs = lapply(filenames, build_single_location)  # builds list of dataframes
+
+# build large dataframe for project master and sort by Location 
+large_df = dfs[[1]]   # start here with the first one
+dfs = dfs[-1]         # pop the first one from the list
+
+for (i in 1:length(dfs)){
+    large_df = dplyr::union(large_df, dfs[[i]])  # union on each 
+}
+
+large_df = dplyr::arrange(large_df, Location)  # arrange by location descending
+
+
+```
+
+The result is the final dataset:
+
+```{r}
+large_df[1:3]
+large_df[4:6]
+large_df[7:9]
+```
+## Analysis
+
+In order to find out which combination of spaces and locations contained the highest and lowest reverbation times I used dplyr to subset and aggregate the large dataset constructed by the main script. I eliminated Source Sound, Input and Generation Type from the dataset filtered the results to only include the Reverberation times across each octave band. Some cleaning was required to remove newlines and whitespace from the result sets.
+
+```{r}
+load("current_main.rda")    # load image from main.R
+
+library(dplyr)
+library(ggplot2)
+library(stringr)
+
+## Remove cols and filter Reverb times
+reverb_df = large_df %>%
+    select(-c(`Source Sound`, `Input`, `Generation Type`)) %>%
+    filter(Response_type == "Reverberation Time RT60 T30 (seconds)")
+
+# need to strip \n and whitespace for correct display
+reverb_df[1:4] = lapply(reverb_df[1:4], function(i){
+    str_replace_all(i, fixed(" "), "")
+})       
+reverb_df[1:4] = lapply(reverb_df[1:4], function(i){
+    str_replace_all(i, "[\n]", "")
+})       
+
+```
+
+The resulting dataframe was seperately grouped by Space Category and Location. Reverb times were then averaged to produce the following result sets.  
+
+
+```{r}
+# Reverb avg by space category
+category_avg_df = reverb_df %>%
+    group_by(`Space Category`)%>%
+    summarise(avg_reverb = mean(Freq)) %>%
+    arrange(desc(avg_reverb)) %>%
+    na.omit()
+
+# Reverb avg by location
+location_avg_df = reverb_df %>%
+    group_by(`Location`) %>%
+    summarise(avg_reverb = mean(Freq)) %>%
+    arrange(desc(avg_reverb))
+
+```
+
+```{r, fig.height=10, fig.width=8}
+# By location plot
+ggplot(data=location_avg_df, 
+       aes(x=reorder(Location,avg_reverb), y=avg_reverb)) +
+    geom_bar(stat="identity") +
+    coord_flip()
+```
+
+```{r}
+## By category plot
+ggplot(data=category_avg_df, 
+       aes(x=reorder(`Space Category`,avg_reverb), y=avg_reverb)) +
+    geom_bar(stat="identity") +
+    coord_flip()
+```
+
+I also wanted to look at how the source sound alongside of the space category might play a role in average reverberation time.
+
+```{r}
+# Reverb avg by source and space category
+cat_source_avg_df = reverb_df %>%
+    group_by(`Source Sound Category`, `Space Category`) %>%
+    summarise(avg_reverb = mean(Freq)) %>%
+    arrange(`Space Category`, `Source Sound Category`, desc(avg_reverb)) %>%
+    na.omit()
+
+```
+
+```{r}
+## By category and source input category plot
+ggplot(
+    data=cat_source_avg_df, 
+    aes(x=reorder(`Space Category`,avg_reverb), 
+        y=avg_reverb, fill= `Source Sound Category`))+
+    
+    geom_bar(stat="identity") +
+    coord_flip()
+```
+
+Based on the above results, space categories that are considered as some type of hall seem to produce the most reverb in seconds. In order to find the distribution of hall reverberation over each octave band, the dataset is filtered by the top three Hall type categories and the results averaged across octave bands. 
+
+```{r}
+halls = c("Hall", "HallSportsHall", "ConcertHall")
+hall_octaves = reverb_df %>%
+    filter(`Space Category` %in% halls) %>%
+    group_by(Octave_band) %>%
+    summarise(avg_reverb = mean(Freq))
+
+    ggplot(
+        data=hall_octaves, 
+        aes(x=Octave_band, y=avg_reverb)) +
+    
+    geom_bar(stat="identity") +
+    coord_flip()
+
+```
+
+
+## Conclusions
+
+The results of the exploratory analysis show that in general, Halls and Cathederals tend to produce more overall reverb while rooms and open air produce the least. In terms of locations in the dataset, Terry's Factory Warehouse produced the most overall reverberation, with averages close to 30 seconds long. The swept-sine signal accounted for many of the observations across the dataset, including a substantial portion of the top three categories.
+
+In terms of distribution, lower frequency reverberation constituted the greatest proportion of the overall reverb for the top 3 space categories. This implies that spaces with higher overall reverb might contain a greater low frequency response, though more research needs to be done in order to draw a more definitive conclusion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
